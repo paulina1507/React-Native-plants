@@ -1,0 +1,16 @@
+{
+  "name": "Producto",
+  "displayName": "Producto",
+  "expo": {
+    "name": "Producto",
+    "slug": "Producto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "android": {
+      "package": "com.paulina1507",
+      "versionCode": 1
+    }
+  }
+}
